@@ -10,7 +10,7 @@
 ## 🚀 Live Demo
 
 > 🔗 **Gradio Dashboard:** *(https://a19034f2232c127260.gradio.live/)*  
-> 🔗 **GitHub Repo:** *(paste your repo URL here)*
+> 🔗 **GitHub Repo:** *(https://github.com/Manojbonthu/primetrade-trader-sentiment)*
 
 ---
 
