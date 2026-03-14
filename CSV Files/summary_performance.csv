@@ -1,0 +1,3 @@
+sentiment_binary,Avg_Daily_PnL,Median_PnL,Avg_Win_Rate,Std_PnL,N_observations
+Fear,171466.6892,46070.4936,0.3848,348594.835,40
+Greed,90988.7034,20925.5132,0.369,264805.4157,37
